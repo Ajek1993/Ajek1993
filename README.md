@@ -27,12 +27,7 @@ A miner by education. However, last years I was working in logistics and transpo
 
 ## :sunglasses: My websites
 
-[LinkedIn Profile <img align="left" alt="Arkadiusz Sarach LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[My portfolio website <img align="left" alt="Arkadiusz Sarach LinkedIn" width="22px" src="https://skillicons.dev/icons?i=vercel" />][mywebsite]
-
-<br/>
-
-[linkedin]: https://www.linkedin.com/in/arkadiusz-sarach/
-[mywebsite]: https://my-portoflio-mu.vercel.app/
+[LinkedIn Profile<img align="left" alt="Arkadiusz Sarach LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/arkadiusz-sarach/)<br />
+[ My portfolio website<img align="left" alt="Arkadiusz Sarach Website" width="22px" src="https://skillicons.dev/icons?i=vercel" />](https://my-portoflio-mu.vercel.app/)
 
 
