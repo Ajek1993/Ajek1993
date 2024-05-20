@@ -1,6 +1,6 @@
 # Arkadiusz Sarach 
 
-Hi there!:handshake:
+Hi there! :handshake:
 My name is Arkadiusz and I am beginner frontend developer.
 
 ##  :wave:  About
@@ -30,20 +30,9 @@ A miner by education. However, last years I was working in logistics and transpo
 [LinkedIn Profile <img align="left" alt="Arkadiusz Sarach LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [My portfolio website <img align="left" alt="Arkadiusz Sarach LinkedIn" width="22px" src="https://skillicons.dev/icons?i=vercel" />][mywebsite]
 
+<br/>
+
 [linkedin]: https://www.linkedin.com/in/arkadiusz-sarach/
 [mywebsite]: https://my-portoflio-mu.vercel.app/
 
-<!--
-**Ajek1993/Ajek1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
