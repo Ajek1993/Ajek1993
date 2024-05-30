@@ -25,6 +25,10 @@ A miner by education. However, last years I was working in logistics and transpo
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,sass,js,ts,react,nextjs,nodejs,firebase,npm,materialui,postman,babel,webpack,vercel,git,vscode&perline=10)](https://skillicons.dev)
 
+#### I like solving katas on CodeWars too:
+
+<img src="https://www.codewars.com/users/Ajek1993/badges/large"/>
+
 ## :sunglasses: My websites
 
 [LinkedIn Profile<img align="left" alt="Arkadiusz Sarach LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/arkadiusz-sarach/)<br />
