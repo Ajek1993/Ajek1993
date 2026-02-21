@@ -1,40 +1,34 @@
-# Arkadiusz Sarach 
+# Hey, I'm Arkadiusz Sarach 👋
 
-Hi there! :handshake:
-My name is Arkadiusz and I am beginner frontend developer.
+**Building practical business solutions with AI-powered development tools.**
 
-##  :wave:  About
-A miner by education. However, last years I was working in logistics and transport. I started as usual driver, after 2 years I started working as branch supervisor in a gastro-courier company. I completed [CodersLab's course](https://coderslab.pl/pl/javascript-developer-react)  that delved deep into the latest React, JavaScript features and Node.js. Right now I am developing backend skills in Python.
+---
 
+## About me
 
-#### I'd describe myself as
-- [x] easy-going
-- [x] kind-hearted
-- [x] passionate
-- [x] ambitious
-- [x] quick-learning
-- [x] clear & communicative
-- [x] good team worker
-- [ ] lazy
-- [ ] rude
+I come from a non-traditional tech background — mining education, years in logistics and transport where I grew from a driver to a branch supervisor in a gastro-courier company. That path taught me problem-solving, managing people, and getting things done under pressure.
 
-## :blush: I'm mostly coding in: 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajek1993&layout=compact"/>
+I completed [CodersLab's JavaScript Developer + React course](https://coderslab.pl/pl/javascript-developer-react) and since then I've been steadily expanding my skillset. Currently I'm focused on **AI-assisted development** — using tools like **Claude Code** to build real business solutions faster and smarter.
 
-#### ...however I also use:
+## 🔧 What I'm doing now
+
+- 🤖 Learning and applying **AI development tools** (Claude Code, LLM-powered workflows)
+- 💡 Creating **practical business solutions** — automating processes, building apps that solve real problems
+- 🐍 Developing backend skills in **Python**
+- ⚛️ Building frontends with **React / Next.js**
+
+## 🛠️ Tech stack
 
 [![My Skills](https://skillicons.dev/icons?i=python,html,css,sass,js,ts,react,nextjs,nodejs,firebase,npm,materialui,postman,babel,webpack,vercel,git,github,gitlab,vscode&perline=10)](https://skillicons.dev)
 
-#### I like solving katas on CodeWars too:
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajek1993&layout=compact&theme=default" alt="Top languages"/>
 
-<img src="https://www.codewars.com/users/Ajek1993/badges/large"/>
+## ⚔️ CodeWars
 
-## :sunglasses: My websites
+<img src="https://www.codewars.com/users/Ajek1993/badges/large" alt="CodeWars badge"/>
 
-[LinkedIn Profile<img align="left" alt="Arkadiusz Sarach LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/arkadiusz-sarach/)<br />
+## 📫 Let's connect
 
-[ My portfolio website<img align="left" alt="Arkadiusz Sarach Website" width="22px" src="https://skillicons.dev/icons?i=vercel" />](https://my-portoflio-mu.vercel.app/)
-
-[Gitlab<img align="left" alt="Arkadiusz Sarach Gitlab" width="22px" src="https://skillicons.dev/icons?i=gitlab" />](https://gitlab.com/Ajek1993)
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arkadiusz-sarach/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portoflio-mu.vercel.app/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Ajek1993)
