@@ -19,9 +19,12 @@ I completed [CodersLab's JavaScript Developer + React course](https://coderslab.
 
 ## 🛠️ Tech stack
 
-[![My Skills](https://skillicons.dev/icons?i=python,html,css,sass,js,ts,react,nextjs,nodejs,firebase,npm,materialui,postman,babel,webpack,vercel,git,github,gitlab,vscode&perline=10)](https://skillicons.dev)
+### :blush: I'm mostly coding in: 
+<img src="https://github-readme-stats-dusky-sigma-85.vercel.app/api/top-langs?username=ajek1993&layout=compact&theme=default" alt="Top languages"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ajek1993&layout=compact&theme=default" alt="Top languages"/>
+#### ...however I also use:
+
+[![My Skills](https://skillicons.dev/icons?i=python,html,css,sass,js,ts,react,nextjs,nodejs,firebase,npm,materialui,postman,babel,webpack,vercel,git,github,gitlab,vscode&perline=10)](https://skillicons.dev)
 
 ## ⚔️ CodeWars
 
